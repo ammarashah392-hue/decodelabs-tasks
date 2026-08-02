@@ -1,6 +1,6 @@
-# Interior-Design-Projects:
+# Interior Design Projects:
 
-Welcome to my Interior-Design-Projects repository. This project showcases technical drawings and schematics completed during my internship at Decodelabs. It demonstrates my skills in computer-aided design (CAD), engineering visualization, and technical documentation.
+Welcome to my Interior Design Projects repository. This project showcases technical drawings and schematics completed during my internship at Decodelabs. It demonstrates my skills in computer-aided design (CAD), engineering visualization, and technical documentation.
 
 ### Repository Contents
 
